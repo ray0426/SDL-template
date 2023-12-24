@@ -1,5 +1,7 @@
 # Simple DirectMedia Layer (SDL) template 
 
+This repository serves as a template for Simple DirectMedia Layer (SDL) projects. The extensions listed below are installed, **which means that some files in this repository may be large**. The primary objective of this repository is to offer a pre-configured template for immediate use in future projects.
+
 ## Extensions
 
 The version in this repository:
@@ -12,17 +14,22 @@ SDL2_mixer-devel-2.6.3-mingw
 SDL2_ttf-devel-2.20.2-mingw
 ```
 
-links:
+Extension links:
+
 https://github.com/libsdl-org/SDL
+
 https://sdl-bgi.sourceforge.io/
+
 https://github.com/libsdl-org/SDL_image/releases
+
 https://github.com/libsdl-org/SDL_mixer/releases
+
 https://github.com/libsdl-org/SDL_ttf/releases
 
 ## Requirements
 
 ```
-Window 10
+Window 10 (not necessary)
 VScode
 g++ (gdb)
 ```
