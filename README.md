@@ -28,13 +28,15 @@ https://github.com/libsdl-org/SDL_ttf/releases
 
 ## Requirements
 
+This is the tested working environment
+
 ```
-Window 10 (not necessary)
+Window 10
 VScode
-g++ (gdb)
+g++.exe (Rev5, Built by MSYS2 project) 10.3.0
 ```
 
-The path to g++ in `.vscode/tasks.json` is set as `C:\\msys64\\mingw64\\bin\\g++.exe`. If you choose to install g++ in a different directory, you may need to manually update the `command` in the `tasks.json` file accordingly.
+The path to g++ in `.vscode/tasks.json` is set as `C:\\msys64\\mingw64\\bin\\g++.exe`. If you have installed g++ in a different directory, you may need to manually update the `command` in the `tasks.json` file accordingly.
 
 ## Usage
 
